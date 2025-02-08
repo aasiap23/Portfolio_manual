@@ -23,7 +23,7 @@ W repozytorium "test_e2e_shop_automation" zawarłam swoje przykładowe testy aut
 
 
 Pozdrawiam, </br>
-Asia</h6>
+Asia
 
 Hi
 
@@ -46,4 +46,4 @@ In the "test_e2e_shop_automation" repository I have included my sample automatio
 
 Best regards </br>
 Asia
-
+<h6>
