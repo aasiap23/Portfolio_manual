@@ -18,7 +18,7 @@ W repozytorium "test_e2e_shop_automation" zawarłam swoje przykładowe testy aut
 
 "PlaywrightTest" to demo testów dla przypadkowo wybranego sklepu internetowego.</br>
 
-"Cypress-testing" to testy automatyzujące storny przeznaczonej do nauki testowania.</br>
+"Cypress-testing" to testy automatyzujące strony przeznaczonej do nauki testowania.</br>
  
 
 
